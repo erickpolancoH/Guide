@@ -25,7 +25,7 @@
 <p>Telefono::<span>829-986-5221</span></p>
 
   
-        <img class="responsive-profile" src="natashaferreiras.PNG">
+        <img class="responsive-profile" src="Screenshot-natasha.jpg">
         <h2> Dra Nadia Natasha Ferreiras</h2>
         <p>Cirujano Pediatra</p>
         <p>Direccion::<span>c/Imbert Esq San Francisco no.80</span></p>
